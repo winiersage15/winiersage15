@@ -1,16 +1,63 @@
-## Hi there 👋
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
 
-<!--
-**winiersage15/winiersage15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  Hi, I'm Iram Abdiel Mendez Castellanos
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Cybersecurity%20Specialist;&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+</p>
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 I'm a Software Engineer passionate about building secure, efficient, and scalable systems.
+- 🔒 Currently exploring Cybersecurity, focusing on secure software design and threat detection..
+- 🔐 Learning more about Network Security, Penetration Testing, and Cryptography.
+
+## 🛠 &nbsp;Tech Stack
+
+#### 🔧 Languages
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,py,cs,c,html,php,js,css" />
+  </a>
+</p>
+
+#### 🖥️ Frameworks and libraries
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,django,pytorch,tensorflow" />
+  </a>
+</p>
+
+#### ⚡ db
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongo" />
+  </a>
+</p>
+
+#### 🔧 Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kali,aws,powershell,git,docker" />
+  </a>
+</p>
+---
+
+### 🔗 &nbsp;Contact Me
+
+<div align="center">
+<a href="irammendez20@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="www.linkedin.com/in/iram-abdiel-mendez-castellanos"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</a>
+</div>
+
+---
+
+
