@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,aws,powershell,git,docker" />
+    <img src="https://skillicons.dev/icons?i=kali,aws,powershell,git" />
   </a>
 </p>
 ---
