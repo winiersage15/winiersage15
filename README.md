@@ -61,7 +61,7 @@
 ## 🛡️ Certifications
 
 <details>
-  <summary>📜 View Certifications</summary>
+  <summary>📜complementary cybersecurity certifications</summary>
   <br>
 
  <table>
@@ -74,6 +74,16 @@
       <td><img src="./certifications/OT1.png" width="500"/></td>
       <td><img src="./certifications/mapscheckmarx.png" width="500"/></td>
       <td><img src="./certifications/mapsfortinet.png" width="500"/></td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary>📜complementary OT cybersecurity certifications </summary>
+  <br>
+
+ <table>
+    <tr>
+      <td><img src="./certifications/OT1.png" width="500"/></td>
     </tr>
   </table>
 </details>
