@@ -58,6 +58,20 @@
 </a>
 </div>
 
+## 🛡️ Certifications
+
+<details>
+  <summary>📜 View Certifications</summary>
+  <br>
+
+  <p>
+    <img src="LINK_1" width="120"/>
+    <img src="LINK_2" width="120"/>
+    <img src="LINK_3" width="120"/>
+  </p>
+
+</details>
+
 ---
 
 
