@@ -12,7 +12,7 @@
 ---
 
 - 🔐 Cybersecurity enthusiast focused on SOC operations, threat detection, and network defense.
-- 📡 Hands-on practice with SIEM tools, log analysis, and vulnerability assessment.
+- 📡 Currently building hands-on labs for SIEM and log analysis.
 - 🏭 Industrial infrastructure exposure with interest in OT Security.
   
 ## 🛠 &nbsp;Tech Stack
