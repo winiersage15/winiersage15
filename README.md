@@ -49,7 +49,7 @@
   </a>
 </p>
 ---
-## 🛡️ Certifications
+🛡️ Certifications
 
 <details>
   <summary>📜complementary cybersecurity certifications</summary>
@@ -77,7 +77,7 @@
     </tr>
   </table>
 </details>
-  ### 🔗 &nbsp;Contact Me
+🔗 &nbsp;Contact Me
 
 <div align="center">
 <a href="mailto:irammendez20@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
