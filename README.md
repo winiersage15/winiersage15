@@ -71,22 +71,19 @@
 <details>
   <summary>📜complementary OT cybersecurity certifications </summary>
   <br>
-
  <table>
-    ### 🔗 &nbsp;Contact Me
+    <tr>
+      <td><img src="./certifications/OT1.png" width="500"/></td>
+    </tr>
+  </table>
+</details>
+  ### 🔗 &nbsp;Contact Me
 
 <div align="center">
 <a href="mailto:irammendez20@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/iram-abdiel-mendez-castellanos"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </a>
 </div>
-
-    <tr>
-      <td><img src="./certifications/OT1.png" width="500"/></td>
-    </tr>
-  </table>
-</details>
-
 ---
 
 
