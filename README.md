@@ -7,32 +7,23 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Cybersecurity%20Specialist;&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity%20Analyst%20in%20Training;SOC%20%7C%20Network%20Security;Future%20OT%20Security;&font=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 ---
 
-- 👨‍💻 I'm a Software Engineer passionate about building secure, efficient, and scalable systems.
-- 🔒 Currently exploring Cybersecurity, focusing on secure software design and threat detection..
-- 🔐 Learning more about Network Security, Penetration Testing, and Cryptography.
-
+- 🔐 Cybersecurity enthusiast focused on SOC operations, threat detection, and network defense.
+- 📡 Hands-on practice with SIEM tools, log analysis, and vulnerability assessment.
+- 🏭 Industrial infrastructure exposure with interest in OT Security.
+  
 ## 🛠 &nbsp;Tech Stack
 
 #### 🔧 Languages
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,py,cs,c,html,php,js,css" />
+    <img src="https://skillicons.dev/icons?i=bash,py,cs,c" />
   </a>
 </p>
-
-#### 🖥️ Frameworks and libraries
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,django,pytorch,tensorflow" />
-  </a>
-</p>
-
 #### ⚡ db
 
 <p align="center">
@@ -45,37 +36,16 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,aws,powershell,git" />
+    <img src="https://skillicons.dev/icons?i=kali,powershell,git" />
   </a>
 </p>
 
-#### 🛡️ Certifications
+## 📜 Certifications
 
-<details>
-  <summary>📜complementary cybersecurity certifications</summary>
-  <br>
-
- <table>
-    <tr>
-      <td><img src="./certifications/fortinet1.png" width="500"/></td>
-      <td><img src="./certifications/fortinet2.png" width="500"/></td>
-      <td><img src="./certifications/fortinet3.png" width="500"/></td>
-    </tr>
-    <tr>
-      <td><img src="./certifications/mapscheckmarx.png" width="500"/></td>
-      <td><img src="./certifications/mapsfortinet.png" width="500"/></td>
-    </tr>
-  </table>
-</details>
-<details>
- ####  <summary>📜complementary OT cybersecurity certifications </summary>
-  <br>
- <table>
-    <tr>
-      <td><img src="./certifications/OT1.png" width="500"/></td>
-    </tr>
-  </table>
-</details>
+- Fortinet NSE 1, 2, 3
+- OT Cybersecurity Fundamentals
+- Checkmarx Secure Coding Overview
+  
 🔗 &nbsp;Contact Me
 
 <div align="center">
