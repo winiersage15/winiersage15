@@ -64,10 +64,13 @@
   <summary>📜 View Certifications</summary>
   <br>
 
-  <p>
-    <img src="LINK_1" width="120"/>
-    <img src="LINK_2" width="120"/>
-    <img src="LINK_3" width="120"/>
+ <p>
+    <img src="./certifications/fortinet1.png" width="120"/>
+    <img src="./certifications/fortinet2.png" width="120"/>
+    <img src="./certifications/fortinet3.png" width="120"/>
+    <img src="./certifications/OT1.png" width="120"/>
+    <img src="./certifications/mapscheckmarx.png" width="120"/>
+    <img src="./certifications/mapsfortinet.png" width="120"/>
   </p>
 
 </details>
