@@ -64,15 +64,18 @@
   <summary>📜 View Certifications</summary>
   <br>
 
- <p>
-    <img src="./certifications/fortinet1.png" width="120"/>
-    <img src="./certifications/fortinet2.png" width="120"/>
-    <img src="./certifications/fortinet3.png" width="120"/>
-    <img src="./certifications/OT1.png" width="120"/>
-    <img src="./certifications/mapscheckmarx.png" width="120"/>
-    <img src="./certifications/mapsfortinet.png" width="120"/>
-  </p>
-
+ <table>
+    <tr>
+      <td><img src="./certifications/fortinet1.png" width="250"/></td>
+      <td><img src="./certifications/fortinet2.png" width="250"/></td>
+      <td><img src="./certifications/fortinet3.png" width="250"/></td>
+    </tr>
+    <tr>
+      <td><img src="./certifications/OT1.png" width="250"/></td>
+      <td><img src="./certifications/mapscheckmarx.png" width="250"/></td>
+      <td><img src="./certifications/mapsfortinet.png" width="250"/></td>
+    </tr>
+  </table>
 </details>
 
 ---
