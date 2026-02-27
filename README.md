@@ -48,8 +48,8 @@
     <img src="https://skillicons.dev/icons?i=kali,aws,powershell,git" />
   </a>
 </p>
----
-🛡️ Certifications
+
+#### 🛡️ Certifications
 
 <details>
   <summary>📜complementary cybersecurity certifications</summary>
@@ -69,7 +69,7 @@
   </table>
 </details>
 <details>
-  <summary>📜complementary OT cybersecurity certifications </summary>
+ ####  <summary>📜complementary OT cybersecurity certifications </summary>
   <br>
  <table>
     <tr>
