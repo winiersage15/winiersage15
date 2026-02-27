@@ -62,7 +62,6 @@
       <td><img src="./certifications/fortinet3.png" width="500"/></td>
     </tr>
     <tr>
-      <td><img src="./certifications/OT1.png" width="500"/></td>
       <td><img src="./certifications/mapscheckmarx.png" width="500"/></td>
       <td><img src="./certifications/mapsfortinet.png" width="500"/></td>
     </tr>
